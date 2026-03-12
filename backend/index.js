@@ -23,7 +23,7 @@ app.use("/api/message", messageRoutes);
 
 // --------------------------deployment------------------------------
 
-const path = require("path");
+// const path = require("path");
 
 const __dirname1 = path.resolve();
 
